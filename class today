@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/* This stylesheet sets the width of all images to 100%: */
+img {
+  width: 100%;
+}
+</style>
+</head>
+<body>
+<div>
+<h2>nitin saini</h2>
+</div>
+
+<img src="god.jpg" alt="HTML5 Icon" width="128" height="128">
+
+
+<img src="god2.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
+
+</body>
+</html>
